@@ -9,11 +9,11 @@ Action:
 
 Image
 
-![Doctor's Landing Page]({{site.baseurl}}/Doc landing page.png)
+![Doctor's Landing Page](Doc landing page.png)
 
-![Doctor's Registration Page to register a new patient]({{site.baseurl}}/Doc registration page.png)
+![Doctor's Registration Page to register a new patient](Doc registration page.png)
 
-![Confirmation Page for Registration]({{site.baseurl}}/Doc thank you page.png)
+![Confirmation Page for Registration](Doc thank you page.png)
 
 
 
@@ -27,7 +27,7 @@ Action
 
 Images
 
-![First screen patient sees when logs on]({{site.baseurl}}/Patient landing page.png)
+![First screen patient sees when logs on](Patient landing page.png)
 
 
 
@@ -39,9 +39,9 @@ Action
 
 Images
 
-![Patient can view own record]({{site.baseurl}}/patient diary.png)
+![Patient can view own record](patient diary.png)
 
-![Patient can view what the rest of the group is doing]({{site.baseurl}}/patient group diary.png)
+![Patient can view what the rest of the group is doing](patient group diary.png)
 
 
 
@@ -64,5 +64,4 @@ Action
 
 Images
 
-![Doctor has a summary print out of patient's progress]({{site.baseurl}}/patient diary.png)
-
+![Doctor has a summary print out of patient's progress](patient diary.png)
